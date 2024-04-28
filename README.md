@@ -1,6 +1,6 @@
 ### 👋 Hi, My Name New!
 👨🏻‍💻 I love and very passionate about technology.<br/>
-🧑🏻‍🎓 I'm a robot trainer at Nps robotics computer.<br/>
+🧑🏻‍🎓 I'm a Robot programming coach at NPS Robotics Computer.<br/>
 💻 Now I mean to use Github to keep my programming work.<br/>
 
 <!--
