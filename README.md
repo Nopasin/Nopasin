@@ -10,6 +10,10 @@
 | ------------- | ------------- |
 
 ## 📹 Youtube Videos
+[![Video Thumbnail](https://i.ytimg.com/vi/jEzgsbC-CpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbL681S0nX1tc4YwkyiGdubi4NgA)](https://youtu.be/jEzgsbC-CpI?si=gPlMXCXD6yiOHtoh)
+
+
+
 <picture>
   <img src="https://yt3.googleusercontent.com/SfkRHbjMo1B3HbAoskEJ-tQE0jAwAsairZXf87WkvnVQmv-4Wi1Jgu1ze3TSsle0bjoQxSjI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj", width = "1200">
 </picture>
