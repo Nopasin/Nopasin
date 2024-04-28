@@ -12,6 +12,9 @@
 ## 📹 Youtube Videos
 [![Video Thumbnail](https://i.ytimg.com/vi/jEzgsbC-CpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbL681S0nX1tc4YwkyiGdubi4NgA)](https://youtu.be/jEzgsbC-CpI?si=gPlMXCXD6yiOHtoh)
 
+[![Video Thumbnail](https://i.ytimg.com/vi/jEzgsbC-CpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbL681S0nX1tc4YwkyiGdubi4NgA)](https://youtu.be/jEzgsbC-CpI?si=gPlMXCXD6yiOHtoh){:target="_blank"}
+
+
 
 
 <picture>
