@@ -15,7 +15,7 @@
 
 <a href="https://www.youtube.com/watch?v=1lXaKEy97qE">
   <picture>
-    <img src="https://i.ytimg.com/vi/jEzgsbC-CpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbL681S0nX1tc4YwkyiGdubi4NgA", width="28">
+    <img src="https://i.ytimg.com/vi/jEzgsbC-CpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbL681S0nX1tc4YwkyiGdubi4NgA", width="280">
   </picture>
 </a>
 
