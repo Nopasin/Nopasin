@@ -1,7 +1,7 @@
 ### 👋 Hi, My Name New!
-👨🏻‍💻 I Love And Very Passionate About Technology.<br/>
-🧑🏻‍🎓 Now I'm Studied At Watpapradoo School.<br/>
-💻 Right Now I Mean To Use Github To Keep My Programming Work.<br/>
+👨🏻‍💻 I love and very passionate about technology.<br/>
+🧑🏻‍🎓 I'm a robot trainer at Nps robotics computer.<br/>
+💻 Now I mean to use Github to keep my programming work.<br/>
 
 <!--
 ## 🌐 Socials:
