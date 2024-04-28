@@ -13,9 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nopasin&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nopasin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Nopasin&icon=2&color=0)](https://visitcount.itsvg.in)
 
