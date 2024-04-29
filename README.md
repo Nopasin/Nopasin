@@ -57,8 +57,7 @@
 </details>
 
 ## 📊 GitHub Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nopasin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopasin&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopasin&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## 📹 Youtube Videos
 <picture>
@@ -73,13 +72,13 @@
 
 <a href="https://youtu.be/A_g0Ooa0YvA?si=0uAqCFvh9fTHL5zz" target="_blank">
   <picture>
-    <img src="https://i9.ytimg.com/vi_webp/5FN2fPwHB90/mqdefault.webp?v=60117a7b&sqp=CODhuLEG&rs=AOn4CLBjBGB-3kLjdDzEXCu2oXeiCRIx6Q", width="273">
+    <img src="https://i.ytimg.com/vi/5FN2fPwHB90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKgcudFYGf3sWZPs1NXsDrbTwMRA", width="273">
   </picture>
 </a>
 
 <a href="https://youtu.be/5FN2fPwHB90?si=98SiB7yhmWvy3fPG" target="_blank">
   <picture>
-    <img src="https://i9.ytimg.com/vi_webp/A_g0Ooa0YvA/mqdefault.webp?v=601551b1&sqp=CIzkuLEG&rs=AOn4CLDcxgA18MGTLZHMM4B8Rm8Wpw4BKg", width="273">
+    <img src="https://i.ytimg.com/vi/A_g0Ooa0YvA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1ZY_JzGZWJFZZEFGITMRkUFaIPg", width="273">
   </picture>
 </a>
 
