@@ -21,7 +21,7 @@
   </div>
 </details>
 
-<details close> 
+<!-- <details close> 
   <summary><h2>🧰 Frameworks and Libraries:</h2></summary>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -34,7 +34,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   </div>
-</details>
+</details> -->
 
 <details close> 
   <summary><h2>💻 Software and Tools:</h2></summary>
