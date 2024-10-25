@@ -61,9 +61,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopasin&layout=compact&theme=buefy&hide_border=true" />  </a>
 
 ## 📹 Youtube Videos
-<picture>
-  <img src="https://yt3.googleusercontent.com/SfkRHbjMo1B3HbAoskEJ-tQE0jAwAsairZXf87WkvnVQmv-4Wi1Jgu1ze3TSsle0bjoQxSjI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj", width = "1200">
-</picture>
+<a href="https://www.youtube.com/@CodingExtreme" target="_blank">
+  <picture>
+    <img src="https://yt3.googleusercontent.com/SfkRHbjMo1B3HbAoskEJ-tQE0jAwAsairZXf87WkvnVQmv-4Wi1Jgu1ze3TSsle0bjoQxSjI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj", width = "1200">
+  </picture>
+</a>
 
 <a href="https://youtu.be/jEzgsbC-CpI?si=gPlMXCXD6yiOHtoh" target="_blank">
   <picture>
